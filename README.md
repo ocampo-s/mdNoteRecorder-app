@@ -1,4 +1,2 @@
 
-This repository showcases my TypeScript skills. 
-
-On  a later stage, I plan to deploy its webapp to the Internet
+This repository contains a React project I created with Vite.  The project's webapp has tagging, filtering, and MarkDown support for note taking.  On a later stage, I plan to add a backend and deploy its webapp to the Internet.
